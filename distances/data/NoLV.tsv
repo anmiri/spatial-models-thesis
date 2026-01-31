@@ -1,0 +1,566 @@
+sort	code_glot	type_src	id_RefLex	name	genus	family_wals	lat	long
+1	bokk1238	RefLex	3	manjaku	Central Atlantic	Niger-Congo	12.15	-16.13
+2	mans1259	RefLex	5	sua	Sua	Niger-Congo	12.29	-15.15
+3	jola1262	RefLex	8	joola kasa esuulaalu	Central Atlantic	Niger-Congo	12.55	-16.60
+4	kuwa1246	RefLex	10	joola kwaatay	Central Atlantic	Niger-Congo	12.48	-16.73
+5	sara1315	RefLex	11	manjaku-Bassarel	Central Atlantic	Niger-Congo	12.12	-16.18
+6	mank1251	RefLex	12	mankanya	Central Atlantic	Niger-Congo	12.10	-15.70
+7	jola1263	RefLex	14	joola fogny	Central Atlantic	Niger-Congo	12.94	-16.20
+8	noon1242	RefLex	22	noon	Northern Atlantic	Niger-Congo	14.83	-16.88
+9	bayo1255	RefLex	25	bayot	Central Atlantic	Niger-Congo	12.48	-16.37
+10	jola1262	RefLex	29	joola kasa	Central Atlantic	Niger-Congo	12.40	-16.30
+11	boun1242	RefLex	30	day de Bouna	Adamawa	Niger-Congo	8.60	17.80
+12	band1340	RefLex	34	joola banjal	Central Atlantic	Niger-Congo	12.57	-16.41
+13	bass1258	RefLex	35	basari	Northern Atlantic	Niger-Congo	12.60	-12.85
+14	bedi1235	RefLex	36	bedik	Northern Atlantic	Niger-Congo	12.68	-12.33
+15	bape1239	RefLex	37	bapen	Northern Atlantic	Niger-Congo	12.7	-12.77
+16	tswa1253	RefLex	39	konyagi	Northern Atlantic	Niger-Congo	12.53	-13.13
+17	gusi1246	RefLex	41	joola gusilay	Central Atlantic	Niger-Congo	12.77	-16.48
+18	bond1247	RefLex	42	ndebele (Zimbabwe)	Bantoid	Niger-Congo	-19.50	28.50
+19	bond1247	RefLex	51	bozo-hainyaxo	Western Mande	Niger-Congo	13.75	-5.75
+20	chuk1274	RefLex	53	bozo-tigemaxo	Western Mande	Niger-Congo	14.25	-5.00
+21	tave1240	RefLex	54	bozo-sorogama (Jenaama Pondori South)	Western Mande	Niger-Congo	13.9	-4.56
+22	doee1238	RefLex	55	bozo-sorogama (Jenaama Kotya)	Western Mande	Niger-Congo	14.61121	-4.25245
+23	embu1241	RefLex	56	bozo-tiema ciewe	Western Mande	Niger-Congo	15.60	-4.30
+24	debo1238	RefLex	57	bozo-sorogama (Jenaama Debo)	Western Mande	Niger-Congo	15.40404	-4.23334
+25	koro1305	RefLex	59	bozo-sorogama (Jenaama Korondougou South)	Western Mande	Niger-Congo	14.49	-4.19
+26	kera1248	RefLex	61	keerak	Central Atlantic	Niger-Congo	12.36	-16.68
+27	palo1243	RefLex	70	palor	Northern Atlantic	Niger-Congo	14.89	-16.92
+28	lega1249	RefLex	74	lega-beya	Bantoid	Niger-Congo	-3.00	27.00
+29	tswa1253	RefLex	84	tswana	Bantoid	Niger-Congo	-25.80	25.00
+30	sere1260	RefLex	85	sereer	Northern Atlantic	Niger-Congo	14.50	-16.50
+31	kaad1238	RefLex	92	zarma	Songhay	Songhay	14.47	0.87
+32	tomo1243	RefLex	148	tomo kan	Dogon	Niger-Congo	13.80	-3.80
+33	dogu1235	RefLex	150	dogul dom	Dogon	Niger-Congo	14.70	-3.60
+34	donn1238	RefLex	159	donno so	Dogon	Niger-Congo	14.30	-3.50
+35	bena1262	RefLex	212	bena	Bantoid	Niger-Congo	-9.20	35.10
+36	bend1258	RefLex	213	bende	Bantoid	Niger-Congo	-6.30	30.70
+37	bond1247	RefLex	215	bondei	Bantoid	Niger-Congo	-5.05	38.50
+38	bung1265	RefLex	216	bungu	Bantoid	Niger-Congo	-8.50	33.00
+39	chuk1274	RefLex	217	chuka	Bantoid	Niger-Congo	-0.30	37.70
+40	tave1240	RefLex	218	taveta	Bantoid	Niger-Congo	-3.50	37.30
+41	doee1238	RefLex	219	doe	Bantoid	Niger-Congo	-6.25	38.50
+42	embu1241	RefLex	220	embu	Bantoid	Niger-Congo	-0.60	37.70
+43	fipa1238	RefLex	221	fipa	Bantoid	Niger-Congo	-8.00	31.30
+44	gusi1247	RefLex	222	gusii	Bantoid	Niger-Congo	-0.80	34.80
+45	gwen1239	RefLex	223	gweno	Bantoid	Niger-Congo	-3.70	37.70
+46	gwer1238	RefLex	224	gwere	Bantoid	Niger-Congo	1.15	33.80
+47	hang1260	RefLex	225	hangaza	Bantoid	Niger-Congo	-2.60	30.75
+48	haya1250	RefLex	226	haya	Bantoid	Niger-Congo	-1.80	31.50
+49	hehe1240	RefLex	227	hehe	Bantoid	Niger-Congo	-8.00	35.60
+50	jita1239	RefLex	229	jita	Bantoid	Niger-Congo	-1.65	33.85
+51	kahe1238	RefLex	230	kahe	Bantoid	Niger-Congo	-3.40	37.40
+52	kamb1297	RefLex	231	kamba	Bantoid	Niger-Congo	-1.50	38.00
+53	kami1256	RefLex	233	kami	Bantoid	Niger-Congo	-6.75	38.00
+54	kere1283	RefLex	235	kerewe	Bantoid	Niger-Congo	-2.05	33.25
+55	haaa1252	RefLex	238	ha	Bantoid	Niger-Congo	-3.70	30.50
+56	kiku1240	RefLex	239	gikuyu	Bantoid	Niger-Congo	-0.45	36.75
+57	kara1481	RefLex	240	kara	Bantoid	Niger-Congo	-1.90	33.00
+58	kimb1242	RefLex	241	kimbu	Bantoid	Niger-Congo	-8.00	33.35
+59	moch1256	RefLex	242	mochi	Bantoid	Niger-Congo	-3.10	36.90
+60	king1258	RefLex	243	kinga	Bantoid	Niger-Congo	-9.40	34.30
+61	usse1238	RefLex	244	rombo	Bantoid	Niger-Congo	-3.15	37.60
+62	kisi1243	RefLex	246	kisi	Bantoid	Niger-Congo	-9.75	34.45
+63	vinz1238	RefLex	247	vinza	Bantoid	Niger-Congo	-5.00	30.50
+64	kuri1259	RefLex	249	kuria	Bantoid	Niger-Congo	-1.30	34.80
+65	kutu1263	RefLex	250	kutu	Bantoid	Niger-Congo	-7.25	38.00
+66	kwer1261	RefLex	251	nghwele	Bantoid	Niger-Congo	-5.90	38.70
+67	lamb1271	RefLex	252	lambya	Bantoid	Niger-Congo	-9.50	33.20
+68	lang1320	RefLex	253	rangi	Bantoid	Niger-Congo	-4.70	36.00
+69	gand1255	RefLex	255	ganda	Bantoid	Niger-Congo	0.50	32.00
+70	lugu1238	RefLex	256	ruguru	Bantoid	Niger-Congo	-6.80	37.50
+71	masa1299	RefLex	258	masaba	Bantoid	Niger-Congo	 1.05	34.30
+72	rung1255	RefLex	259	rungwa	Bantoid	Niger-Congo	-7.30	31.80
+73	soga1242	RefLex	260	soga	Bantoid	Niger-Congo	0.75	33.45
+74	mach1276	RefLex	262	mashami	Bantoid	Niger-Congo	-3.15	37.10
+75	mali1278	RefLex	265	malila	Bantoid	Niger-Congo	-9.25	33.35
+76	mamb1296	RefLex	267	mambwe-lungu	Bantoid	Niger-Congo	-9.00	31.20
+77	mand1421	RefLex	268	manda	Bantoid	Niger-Congo	-10.50	34.70
+78	logo1258	RefLex	269	logooli	Bantoid	Niger-Congo	0.10	34.70
+79	mate1258	RefLex	270	matengo	Bantoid	Niger-Congo	-11.00	34.90
+80	matu1259	RefLex	271	matuumbi	Bantoid	Niger-Congo	-8.60	38.90
+81	meru1245	RefLex	274	meru	Bantoid	Niger-Congo	0.25	37.65
+82	mkuu1238	RefLex	275	rombo nord	Bantoid	Niger-Congo	-3.00	37.50
+83	kway1241	RefLex	276	kwaya	Bantoid	Niger-Congo	-1.80	33.70
+84	mpot1239	RefLex	277	mpoto	Bantoid	Niger-Congo	-11.00	34.60
+85	kiny1244	RefLex	278	rwanda	Bantoid	Niger-Congo	-2.00	30.00
+86	mwer1248	RefLex	280	mwera	Bantoid	Niger-Congo	-9.80	39.00
+87	nyam1275	RefLex	281	mwanga (nyamwanga)	Bantoid	Niger-Congo	-9.00	32.35
+88	ikom1246	RefLex	282	ikoma	Bantoid	Niger-Congo	-2.40	34.75
+89	ndal1241	RefLex	283	ndali	Bantoid	Niger-Congo	-9.45	33.40
+90	nden1248	RefLex	286	ndengereko	Bantoid	Niger-Congo	-7.50	38.90
+91	ngin1244	RefLex	287	ngindo	Bantoid	Niger-Congo	-9.70	38.00
+92	ngon1269	RefLex	288	ngoni	Bantoid	Niger-Congo	-12.55	39.00
+93	ngur1263	RefLex	289	ngurimi	Bantoid	Niger-Congo	-2.00	34.90
+94	ngul1246	RefLex	290	ngulu	Bantoid	Niger-Congo	-6.00	37.70
+95	nyak1259	RefLex	292	nyakyusa-ngonde	Bantoid	Niger-Congo	-9.70	33.70
+96	nyat1246	RefLex	294	nyaturu	Bantoid	Niger-Congo	-5.00	34.70
+97	nyih1240	RefLex	296	nyiha	Bantoid	Niger-Congo	-10.00	33.00
+98	nila1242	RefLex	297	nilamba	Bantoid	Niger-Congo	-4.50	34.4
+99	pang1287	RefLex	298	pangwa	Bantoid	Niger-Congo	-9.90	34.70
+100	asut1235	RefLex	299	asu	Bantoid	Niger-Congo	-4.10	37.70
+101	pimb1238	RefLex	301	pimbwe	Bantoid	Niger-Congo	-6.90	31.00
+102	pogo1243	RefLex	302	pogolo	Bantoid	Niger-Congo	-8.70	36.40
+103	rufi1234	RefLex	304	rufiji	Bantoid	Niger-Congo	-8.00	38.70
+104	chig1238	RefLex	305	chiga	Bantoid	Niger-Congo	-1.00	29.85
+105	rund1242	RefLex	306	rundi	Bantoid	Niger-Congo	-3.30	29.90
+106	nyam1277	RefLex	309	nyambo	Bantoid	Niger-Congo	-1.55	31.00
+107	nyan1307	RefLex	310	nyankore	Bantoid	Niger-Congo	-0.50	30.55
+108	nyor1246	RefLex	311	nyoro	Bantoid	Niger-Congo	1.50	31.35
+109	toor1238	RefLex	312	tooro	Bantoid	Niger-Congo	0.50	30.55
+110	safw1238	RefLex	313	safwa	Bantoid	Niger-Congo	-8.60	33.50
+111	sham1280	RefLex	314	shambala	Bantoid	Niger-Congo	-4.70	38.30
+112	luyi1234	RefLex	315	luyia	Bantoid	Niger-Congo	0.45	34.30
+113	sang1330	RefLex	316	sangu	Bantoid	Niger-Congo	-8.40	33.90
+114	ikiz1238	RefLex	317	ikizu	Bantoid	Niger-Congo	-2.20	34.35
+115	shub1238	RefLex	318	subi	Bantoid	Niger-Congo	-2.80	31.40
+116	suba1252	RefLex	322	suba	Bantoid	Niger-Congo	-1.00	34.20
+117	suku1261	RefLex	323	sukuma	Bantoid	Niger-Congo	-3.00	33.00
+118	sumb1240	RefLex	324	sumbwa	Bantoid	Niger-Congo	-3.60	32.20
+119	thar1283	RefLex	325	tharaka	Bantoid	Niger-Congo	-0.10	38.00
+120	vunj1238	RefLex	327	wunjo	Bantoid	Niger-Congo	-3.25	37.50
+121	wand1264	RefLex	328	wanda	Bantoid	Niger-Congo	-8.30	32.35
+122	vwan1235	RefLex	329	wanji	Bantoid	Niger-Congo	-9.00	34.20
+123	yaoo1241	RefLex	331	yao	Bantoid	Niger-Congo	-14.50	35.60
+124	zana1238	RefLex	332	zanaki	Bantoid	Niger-Congo	-2.00	34.10
+125	zara1247	RefLex	333	zalamo	Bantoid	Niger-Congo	-6.75	39.00
+126	zigu1242	RefLex	334	zigula	Bantoid	Niger-Congo	-5.60	38.40
+127	zinz1238	RefLex	335	zinza	Bantoid	Niger-Congo	-2.55	32.15
+128	afar1241	RefLex	336	afar	Eastern Cushitic	Afro-Asiatic	12.50	41.50
+129	tupu1244	RefLex	348	tupuri	Adamawa	Niger-Congo	10.15	14.70
+130	gula1264	RefLex	363	gula iro	Adamawa	Niger-Congo	10.30	19.55
+131	bady1239	RefLex	389	jaad (badiaranke)	Northern Atlantic	Niger-Congo	12.60	-13.74
+132	komc1235	RefLex	454	kom	Bantoid	Niger-Congo	6.25	10.33333
+133	baba1266	RefLex	452	L1. babanki	Bantoid	Niger-Congo	5.97863	10.2869
+134	komm1246	RefLex	455	kom	Bantoid	Niger-Congo	5.70938	10.3033
+135	okuu1243	RefLex	457	oku	Bantoid	Niger-Congo	6.24	10.52
+136	kens1251	RefLex	458	kenswei nsei	Bantoid	Niger-Congo	6.03	10.41
+137	veng1238	RefLex	459	vengo	Bantoid	Niger-Congo	6.14	10.41
+138	mish1244	RefLex	896	miship	West Chadic	Afro-Asiatic	9.22	9.33
+139	goem1240	RefLex	897	goemai	West Chadic	Afro-Asiatic	8.77	9.78
+140	kare1348	RefLex	898	karekare	West Chadic	Afro-Asiatic	12.42	10.87
+141	gera1246	RefLex	899	gera	West Chadic	Afro-Asiatic	10.43	10.14
+142	nucl1695	RefLex	900	bole	West Chadic	Afro-Asiatic	11.35	11.26
+143	ngam1282	RefLex	901	ngamo	West Chadic	Afro-Asiatic	11.99	11.22
+144	pero1241	RefLex	902	pero	West Chadic	Afro-Asiatic	9.56	11.05
+145	nucl1696	RefLex	903	tangale	West Chadic	Afro-Asiatic	9.82	11.33
+146	dera1248	RefLex	904	kanakuru (dera)	West Chadic	Afro-Asiatic	10.09	12.03
+147	bogh1241	RefLex	907	boghom	West Chadic	Afro-Asiatic	9.51	10.11
+148	buli1260	RefLex	909	bili (buli)	West Chadic	Afro-Asiatic	10.23	9.81
+149	polc1244	RefLex	912	posi (polci)	West Chadic	Afro-Asiatic	10.12	9.50
+150	ngiz1242	RefLex	913	ngizim	West Chadic	Afro-Asiatic	12.05	11.02
+151	bade1248	RefLex	914	bade	West Chadic	Afro-Asiatic	12.80	10.63
+152	bana1305	RefLex	934	bana	Biu-Mandara	Afro-Asiatic	10.36	13.65
+153	bank1257	RefLex	958	jarawa	Bantoid	Niger-Congo	9.65	10.10
+154	ejam1238	RefLex	1171	joola ejamat	Central Atlantic	Niger-Congo	12.40	-16.20
+155	mlom1238	RefLex	1175	joola mlomp	Central Atlantic	Niger-Congo	12.82	-16.51
+156	dadi1249	RefLex	1280	dadiya	Adamawa	Niger-Congo	9.62	11.33
+157	dime1235	RefLex	1308	dime	South Omotic	Afro-Asiatic	6.20	36.30
+158	ngas1240	RefLex	1353	angas (ngas)	West Chadic	Afro-Asiatic	9.50	9.50
+159	bush1247	RefLex	1361	bushoong	Bantoid	Niger-Congo	-4.55	21.65
+160	kete1252	RefLex	1362	kete	Bantoid	Niger-Congo	-7.00	22.95
+161	holo1240	RefLex	1368	holoholo	Bantoid	Niger-Congo	-5.40	28.30
+162	supy1237	RefLex	1436	supyire	Gur	Niger-Congo	11.50	-5.60
+163	firi1238	RefLex	1476	jalonke	Western Mande	Niger-Congo	12.00	-11.50
+164	bubi1250	RefLex	1535	vove (pove)	Bantoid	Niger-Congo	-1.10	12.30
+165	zarm1239	RefLex	1547	zarma	Songhay	Songhay	13.50	2.40
+166	kele1257	RefLex	1588	kele ouest (bubi)	Bantoid	Niger-Congo	-0.80	10.35
+167	myen1241	RefLex	1591	myene	Bantoid	Niger-Congo	-1.20	9.55
+168	enen1239	RefLex	1593	enenga	Bantoid	Niger-Congo	-0.70	10.29
+169	galw1238	RefLex	1595	galwa	Bantoid	Niger-Congo	-0.70	10.24
+170	orun1242	RefLex	1598	orungu	Bantoid	Niger-Congo	-0.72	8.78
+171	basa1284	RefLex	1601	basaa	Bantoid	Niger-Congo	5.00	10.20
+172	wumb1242	RefLex	1603	wumbvu	Bantoid	Niger-Congo	-2.30	12.25
+173	kota1274	RefLex	1605	kota	Bantoid	Niger-Congo	0.00	12.80
+174	sake1247	RefLex	1606	sake	Bantoid	Niger-Congo	0.25	11.75
+175	ndas1238	RefLex	1609	ndasa nord	Bantoid	Niger-Congo	-2.90	13.30
+176	osam1235	RefLex	1612	samaye	Bantoid	Niger-Congo	-0.15	13.73
+177	tsog1243	RefLex	1620	tsogo	Bantoid	Niger-Congo	-1.50	11.30
+178	simb1254	RefLex	1623	simba	Bantoid	Niger-Congo	-1.25	11.15
+179	sira1266	RefLex	1626	sira	Bantoid	Niger-Congo	-1.80	10.55
+180	sang1333	RefLex	1627	sangu	Bantoid	Niger-Congo	-1.60	11.90
+181	punu1239	RefLex	1629	punu	Bantoid	Niger-Congo	-2.70	11.30
+182	lumb1249	RefLex	1630	lumbu	Bantoid	Niger-Congo	-3.15	10.70
+183	ngub1239	RefLex	1631	ngubi	Bantoid	Niger-Congo	-1.92	9.32
+184	duma1253	RefLex	1633	duma	Bantoid	Niger-Congo	-0.90	13.00
+185	njeb1242	RefLex	1634	njebi	Bantoid	Niger-Congo	-1.45	12.55
+186	tsaa1242	RefLex	1635	tsaangi	Bantoid	Niger-Congo	-2.80	12.70
+187	wand1266	RefLex	1637	wandji	Bantoid	Niger-Congo	-1.55	12.85
+188	omba1241	RefLex	1639	mbama	Bantoid	Niger-Congo	-2.70	13.65
+189	ndum1239	RefLex	1640	ndumu	Bantoid	Niger-Congo	-1.70	13.75
+190	kani1279	RefLex	1642	kaningi nord	Bantoid	Niger-Congo	-1.33	13.35
+191	kani1279	RefLex	1643	kaningi	Bantoid	Niger-Congo	-1.70	13.60
+192	teke1275	RefLex	1645	teke nord	Bantoid	Niger-Congo	-1.35611	14.50639
+193	mbos1242	RefLex	1649	mbosi	Bantoid	Niger-Congo	-1.20	15.50
+194	vili1238	RefLex	1650	vili	Bantoid	Niger-Congo	-4.70	12.00
+195	ndut1239	RefLex	1658	ndut	Northern Atlantic	Niger-Congo	14.91	-16.98
+196	nyam1276	RefLex	1673	nyamwezi	Bantoid	Niger-Congo	-3.00	32.90
+197	pape1239	RefLex	1679	pepel	Central Atlantic	Niger-Congo	11.88	-15.83
+198	ding1239	RefLex	1682	ding	Bantoid	Niger-Congo	-4.10	19.25
+199	mpuo1241	RefLex	1684	mpuono	Bantoid	Niger-Congo	-5.00	19.40
+200	yans1239	RefLex	1685	mputu	Bantoid	Niger-Congo	-4.30	18.80
+201	nson1239	RefLex	1689	pindi	Bantoid	Niger-Congo	-5.00	18.50
+202	saka1287	RefLex	1690	sakata	Bantoid	Niger-Congo	-3.00	18.15
+203	yans1239	RefLex	1691	yansi	Bantoid	Niger-Congo	-4.00	18.40
+204	eviy1235	RefLex	1701	viya	Bantoid	Niger-Congo	-1.21	10.65
+205	kand1300	RefLex	1871	kande	Bantoid	Niger-Congo	0.00	11.75
+206	yomb1244	RefLex	1872	yombe	Bantoid	Niger-Congo	-5.10	12.70
+207	pinj1243	RefLex	1879	pinji	Bantoid	Niger-Congo	-1.93	11.22
+208	kanu1279	RefLex	1932	kanuri	Saharan	Saharan	12.30	12.50
+209	nugu1242	RefLex	1955	nugunu	Bantoid	Niger-Congo	4.60	11.25
+210	gede1246	RefLex	1956	gedeo	Eastern Cushitic	Afro-Asiatic	6.20	38.20
+211	yasa1242	RefLex	1980	yasa	Bantoid	Niger-Congo	2.45	9.85
+212	kagu1239	RefLex	2090	kagulu	Bantoid	Niger-Congo	-6.35	37.10
+213	mako1251	RefLex	2092	makonde	Bantoid	Niger-Congo	-11.00	39.50
+214	curr1242	RefLex	2095	manjaku-Churo	Central Atlantic	Niger-Congo	12.34	-16.00
+215	teix1238	RefLex	2096	manjaku-Pecixe	Central Atlantic	Niger-Congo	11.83	-16.08
+216	kobi1241	RefLex	2100	buy (kobiana)	Northern Atlantic	Niger-Congo	12.43	-15.97
+217	kasa1248	RefLex	2101	buy (kasanga)	Northern Atlantic	Niger-Congo	12.39	-15.92
+218	bain1259	RefLex	2102	nyun-gujaxer (Kasa)	Northern Atlantic	Niger-Congo	12.51	-16.00
+219	tand1252	RefLex	2105	tanda	Northern Atlantic	Niger-Congo	11.30	-15.42
+220	toch1257	RefLex	2124	tocho	Talodi Proper	Talodi Proper	10.89	30.16
+221	bang1363	RefLex	2263	bangeri-me	Bangime	Bangime	14.90	-3.70
+222	miya1266	RefLex	2458	miya	West Chadic	Afro-Asiatic	10.92	9.72
+223	saya1246	RefLex	2474	zaar	West Chadic	Afro-Asiatic	9.69	9.75
+224	luri1256	RefLex	2497	luri	West Chadic	Afro-Asiatic	10.07	9.59
+225	mand1436	RefLex	2498	mandinka	Western Mande	Niger-Congo	13.40	-15.80
+226	dass1243	RefLex	2499	zodi (dott)	West Chadic	Afro-Asiatic	10.02	9.52
+227	kwas1243	RefLex	2500	shiwa	Bantoid	Niger-Congo	-0.1	11.93
+228	zara1252	RefLex	2503	buu (zaranda)	West Chadic	Afro-Asiatic	10.23	9.52
+229	sigi1234	RefLex	2504	guus (sigidi)	West Chadic	Afro-Asiatic	9.67	9.35
+230	beja1238	RefLex	2505	bedja (bedawi)	Beja	Afro-Asiatic	19.00	36.00
+231	karo1294	RefLex	2506	joola karon	Central Atlantic	Niger-Congo	12.80	-16.69
+232	tega1236	RefLex	2512	orig	Rashad	Rashad	11.85	31.00
+233	buam1238	RefLex	2513	bwamu	Gur	Niger-Congo	12.22	-3.80
+234	tula1252	RefLex	2557	tula	Adamawa	Niger-Congo	9.85	11.52
+235	mwag1236	RefLex	2579	sura	West Chadic	Afro-Asiatic	9.48	9.00
+236	nyox1238	RefLex	2580	malinke (maninka ouest)	Western Mande	Niger-Congo	13.26	-12.90
+237	mbun1248	RefLex	2582	mbunga	Bantoid	Niger-Congo	-8.20	36.60
+238	gube1234	RefLex	2586	nyun (Djibonker)	Northern Atlantic	Niger-Congo	12.53	-16.35
+239	ndam1239	RefLex	2592	ndamba	Bantoid	Niger-Congo	-8.50	35.80
+240	pula1262	RefLex	2594	peul (Fuuta Jalon)	Northern Atlantic	Niger-Congo	11.29	-11.96
+241	yang1293	RefLex	2626	yangben	Bantoid	Niger-Congo	4.40	11.00
+242	luok1236	RefLex	2669	luo	Nilotic	Nilotic	-0.70	34.45
+243	pana1295	RefLex	2710	pana	Gur	Niger-Congo	13.25	-3.30
+244	nucl1692	RefLex	2715	gyannzi (geeji)	West Chadic	Afro-Asiatic	10.32	9.62
+245	juho1239	RefLex	2717	ju?'hoan	Kxa	Kxa	-19.70	21.00
+246	ader1239	RefLex	2718	hausa de l'Ader	West Chadic	Afro-Asiatic	15.00	5.00
+247	tsam1247	RefLex	2721	tsamai	Eastern Cushitic	Afro-Asiatic	5.35	36.90
+248	shek1245	RefLex	2723	sheko	Dizoid	Dizoid	7.05	35.25
+249	toro1252	RefLex	2724	toro-so	Dogon	Niger-Congo	14.35	-3.20
+250	toro1253	RefLex	2725	toro tegu	Dogon	Niger-Congo	15.00	-2.20
+251	bent1238	RefLex	2726	Ben Tey	Dogon	Niger-Congo	12.90	-4.60
+252	yand1257	RefLex	2727	yanda dom	Dogon	Niger-Congo	14.39	-3.09
+253	jams1239	RefLex	2728	jamsay	Dogon	Niger-Congo	14.50	-2.50
+254	nang1261	RefLex	2731	nanga-dama	Dogon	Niger-Congo	14.48	-3.01
+255	bank1259	RefLex	2732	Bankan-Tey	Dogon	Niger-Congo	14.90	-3.00
+256	bond1248	RefLex	2733	bondum dom	Dogon	Niger-Congo	14.95	-3.40
+257	tomo1243	RefLex	2734	tommo so	Dogon	Niger-Congo	14.75	-3.25
+258	tene1248	RefLex	2735	tene kan	Dogon	Niger-Congo	14.10	-3.20
+259	momb1254	RefLex	2736	mombo	Dogon	Niger-Congo	14.50	-3.90
+260	maas1239	RefLex	2737	peul (Maasina)	Northern Atlantic	Niger-Congo	15.50	-3.50
+261	turk1306	RefLex	2738	curama (turka)	Gur	Niger-Congo	10.70	-4.96
+262	limb1268	RefLex	2739	limbum	Bantoid	Niger-Congo	6.62	11.15
+263	kwan1273	RefLex	2741	kwangari	Bantoid	Niger-Congo	-18.30	20.50
+264	leha1242	RefLex	2744	laala	Northern Atlantic	Niger-Congo	14.95	-16.83
+265	saaf1238	RefLex	2745	safen	Northern Atlantic	Niger-Congo	14.66	-17.00
+266	baga1276	RefLex	2746	baga mboteni	Sua	Niger-Congo	10.64	-14.57
+267	bamb1269	RefLex	2747	bambara	Western Mande	Niger-Congo	10.11	-6.99
+268	nucl1347	RefLex	2748	wolof	Northern Atlantic	Niger-Congo	15.00	-16.10
+269	bain1261	RefLex	2749	nyun (Nyamone)	Northern Atlantic	Niger-Congo	12.73	-16.33
+270	ikkk1242	RefLex	2750	ik	Kuliak	Kuliak	3.65	34.35
+271	orma1241	RefLex	2752	orma	Eastern Cushitic	Afro-Asiatic	-1.30	40.03
+272	xooo1239	Phoible	NA	!Xoo	Tuu	Tuu	-24.2002	20.7958
+273	aari1239	Phoible	NA	Aari	South Omotic	Afro-Asiatic	5.95034	36.5721
+274	ache1245	Phoible	NA	Acheron	Talodi Proper	Talodi Proper	10.8827	30.3187
+275	acol1236	Phoible	NA	Acoli	Nilotic	Nilotic	3.57738	32.5147
+276	afit1238	Phoible	NA	Afitti	Nyimang	Nyimang	12.446	30.7611
+277	akan1250	Phoible	NA	Akan	Kwa	Niger-Congo	6.34756	-1.33254
+278	akoo1248	Phoible	NA	Akoose	Bantoid	Niger-Congo	4.9243	9.65522
+279	alab1254	Phoible	NA	Alaba-K'abeena	Eastern Cushitic	Afro-Asiatic	7.39014	38.1732
+280	amas1236	Phoible	NA	Ama (Sudan)	Nyimang	Nyimang	12.0993	29.4332
+281	amha1245	Phoible	NA	Amharic	Semitic	Afro-Asiatic	11.7082	39.5435
+282	anfi1235	Phoible	NA	Anfillo	North Omotic	Afro-Asiatic	8.568	34.647
+283	ango1258	Phoible	NA	Angolar	Creoles and Pidgins	other	0.11438	6.59486
+284	anua1242	Phoible	NA	Anuak	Nilotic	Nilotic	7.57714	34.0267
+285	arbo1245	Phoible	NA	Arbore	Eastern Cushitic	Afro-Asiatic	4.92183	36.7986
+286	argo1244	Phoible	NA	Argobba	Semitic	Afro-Asiatic	10.6596	39.756
+287	awin1248	Phoible	NA	Awing	Bantoid	Niger-Congo	5.88362	10.264
+288	awng1244	Phoible	NA	Awngi	Central Cushitic	Afro-Asiatic	10.9819	36.6916
+289	awut1241	Phoible	NA	Awutu	Kwa	Niger-Congo	5.42441	-0.59545
+290	bafa1249	Phoible	NA	Bafanji	Bantoid	Niger-Congo	5.84612	10.4518
+291	bafu1246	Phoible	NA	Bafut	Bantoid	Niger-Congo	6.14153	10.1194
+292	bagi1246	Phoible	NA	Bagirmi	Bongo-Bagirmi	Central Sudanic	11.5239	14.7695
+293	baka1273	Phoible	NA	Bakaka	Bantoid	Niger-Congo	4.79991	9.80402
+294	bako1249	Phoible	NA	Bakoko	Bantoid	Niger-Congo	3.56518	9.99905
+295	bamb1265	Phoible	NA	Bambalang	Bantoid	Niger-Congo	5.861	10.544
+296	bamb1262	Phoible	NA	Bambassi	North Omotic	Afro-Asiatic	9.82554	34.6522
+297	bame1260	Phoible	NA	Bamenyam	Bantoid	Niger-Congo	5.77049	10.3302
+298	bang1356	Phoible	NA	Bangolan	Bantoid	Niger-Congo	6.0125	10.667
+299	bare1279	Phoible	NA	Barein	East Chadic	Afro-Asiatic	11.1168	18.0764
+300	bata1285	Phoible	NA	Batanga	Bantoid	Niger-Congo	2.08708	9.75107
+301	beem1239	Phoible	NA	Beembe	Bantoid	Niger-Congo	-3.95895	14.1
+302	bemb1257	Phoible	NA	Bemba (Zambia)	Bantoid	Niger-Congo	-10.6122	29.2993
+303	benc1235	Phoible	NA	Bench	North Omotic	Afro-Asiatic	7.04682	35.7673
+304	bert1248	Phoible	NA	Berta	Berta	Berta	10.6474	34.7042
+305	bial1238	Phoible	NA	Biali	Gur	Niger-Congo	11.0382	1.08259
+306	bili1260	Phoible	NA	Bilin	Central Cushitic	Afro-Asiatic	15.7833	38.3917
+307	biss1248	Phoible	NA	Bissa	Southeastern Mande	Niger-Congo	10.4257	-1.67332
+308	bong1285	Phoible	NA	Bongo	Bongo-Bagirmi	Central Sudanic	7.4145	27.9918
+309	bora1271	Phoible	NA	Borana-Arsi-Guji Oromo	Eastern Cushitic	Afro-Asiatic	1.05676	37.882
+310	boro1277	Phoible	NA	Boro (Ethiopia)	North Omotic	Afro-Asiatic	10.6596	35.345
+311	buku1249	Phoible	NA	Bukusu	Bantoid	Niger-Congo	0.68043	34.7719
+312	burj1242	Phoible	NA	Burji	Eastern Cushitic	Afro-Asiatic	4.44624	38.4646
+313	buru1301	Phoible	NA	Burun	Nilotic	Nilotic	10.725	33.921
+314	came1252	Phoible	NA	Cameroon Mambila	Bantoid	Niger-Congo	6.43829	11.4195
+315	cent2194	Phoible	NA	Central Atlas Tamazight	Berber	Afro-Asiatic	32.7415	-2.40872
+316	cent2050	Phoible	NA	Central Kanuri	Western Saharan	Saharan	11.8863	16.3918
+317	cent2018	Phoible	NA	Central-Eastern Niger Fulfulde	Northern Atlantic	Niger-Congo	15.0907	8.43261
+318	chop1243	Phoible	NA	Chopi	Bantoid	Niger-Congo	-24.8327	34.1097
+319	cuvo1236	Phoible	NA	Cuvok	Biu-Mandara	Afro-Asiatic	10.6448	14.0006
+320	dagi1241	Phoible	NA	Dagik	Talodi Proper	Talodi Proper	10.583	29.9404
+321	daha1245	Phoible	NA	Dahalo	Southern Cushitic	Afro-Asiatic	-2.1843	40.37
+322	dang1274	Phoible	NA	Dangaleat	East Chadic	Afro-Asiatic	12.1517	18.385
+323	darf1239	Phoible	NA	Dar Fur Daju	Daju	Daju	12.2598	25.3127
+324	dawr1236	Phoible	NA	Dawro	North Omotic	Afro-Asiatic	6.58	37.14
+325	tebu1238	Phoible	NA	Dazaga	Western Saharan	Saharan	15.7358	15.8517
+326	dghw1239	Phoible	NA	Dghwede	Biu-Mandara	Afro-Asiatic	11.0575	13.7785
+327	dibo1245	Phoible	NA	Dibole	Bantoid	Niger-Congo	1.07773	17.2305
+328	didi1258	Phoible	NA	Didinga	Surmic	Surmic	4.21489	33.6869
+329	sout2833	Phoible	NA	South Central Dinka	Nilotic	Nilotic	6.73	30.30
+330	diri1252	Phoible	NA	Diriku	Bantoid	Niger-Congo	-18.1681	20.6678
+331	dizi1235	Phoible	NA	Dizin	Dizoid	Dizoid	6.1405	35.5763
+332	domp1238	Phoible	NA	Dompo	Kwa	Niger-Congo	8.182	-2.295
+333	dual1243	Phoible	NA	Duala	Bantoid	Niger-Congo	4.10208	9.61877
+334	east2652	Phoible	NA	Eastern Oromo	Eastern Cushitic	Afro-Asiatic	8.67428	41.4395
+335	ebir1243	Phoible	NA	Ebira	Nupoid	Niger-Congo	8.15516	7.06183
+336	egyp1253	Phoible	NA	Egyptian Arabic	Semitic	Afro-Asiatic	31	31
+337	elip1238	Phoible	NA	Elip	Bantoid	Niger-Congo	4.45694	11.193
+338	fali1285	Phoible	NA	Fali	Biu-Mandara	Afro-Asiatic	10.5419	13.4087
+339	fefe1239	Phoible	NA	Fe'fe'	Bantoid	Niger-Congo	5.18158	10.1442
+340	fern1234	Phoible	NA	Fernando Po Creole English	Creoles and Pidgins	other	3.53638	8.68929
+341	fuli1240	Phoible	NA	Fuliiru	Bantoid	Niger-Congo	-3.04022	28.9865
+342	furr1244	Phoible	NA	Fur	Fur	Furan	12.0455	23.6401
+343	fwee1238	Phoible	NA	Fwe	Bantoid	Niger-Congo	-17.7237	24.4315
+344	gaam1241	Phoible	NA	Gaam	Eastern Jebel	Eastern Jebel	11.4674	33.9797
+345	gamo1243	Phoible	NA	Gamo	North Omotic	Afro-Asiatic	6.666666667	37.25
+346	ghom1247	Phoible	NA	Ghomala'	Bantoid	Niger-Congo	5.39619	10.352
+347	glav1244	Phoible	NA	Glavda	Biu-Mandara	Niger-Congo	11.1334	13.8652
+348	gude1246	Phoible	NA	Gude	Biu-Mandara	Afro-Asiatic	10.2138	13.403
+349	gumu1244	Phoible	NA	Gumuz	Gumuz	Gumuz	11.2873	35.3803
+350	hadi1240	Phoible	NA	Hadiyya	Eastern Cushitic	Afro-Asiatic	7.57377	37.7577
+351	hadz1240	Phoible	NA	Hadza	Hadza	Hadza	-3.83115	35.0458
+352	haio1238	Phoible	NA	Hai//om	Khoe-Kwadi	Khoe-Kwadi	-19.7637	17.0299
+353	hame1242	Phoible	NA	Hamer-Banna	South Omotic	Afro-Asiatic	5.06515	36.5176
+354	hara1271	Phoible	NA	Harari	Semitic	Afro-Asiatic	9.30485	42.1332
+355	haus1257	Phoible	NA	Hausa	West Chadic	Afro-Asiatic	11.1513	8.7804
+356	hdii1240	Phoible	NA	Hdi	Biu-Mandara	Afro-Asiatic	10.942	13.6881
+357	heib1243	Phoible	NA	Heiban	Heiban	Heiban	11.2908	30.5282
+358	here1253	Phoible	NA	Herero	Bantoid	Niger-Congo	-21.0231	20.5655
+359	huba1236	Phoible	NA	Huba	Biu-Mandara	Afro-Asiatic	10.3544	13.139
+360	hung1278	Phoible	NA	Hungana	Bantoid	Niger-Congo	-3.69695	18.4312
+361	ikwe1242	Phoible	NA	Ikwere	Igboid	Niger-Congo	5.04333	6.86651
+362	inor1238	Phoible	NA	Inor	Semitic	Afro-Asiatic	7.94883	37.7968
+363	iraq1241	Phoible	NA	Iraqw	Southern Cushitic	Afro-Asiatic	-4.19948	35.2939
+364	jumj1238	Phoible	NA	Jumjum	Nilotic	Nilotic	10.4349	33.7494
+365	kaby1243	Phoible	NA	Kabyle	Berber	Afro-Asiatic	36.4103	4.76137
+366	kafa1242	Phoible	NA	Kafa	South Omotic	Afro-Asiatic	7.34022	36.1718
+367	kagf1238	Phoible	NA	Kag-Fer-Jiir-Koor-Ror-Us-Zuksun	Kainji	Niger-Congo	11.5319	4.8387
+368	kala1384	Phoible	NA	Kalanga	Bantoid	Niger-Congo	-21.2887	27.401
+369	kamb1316	Phoible	NA	Kambaata	Eastern Cushitic	Afro-Asiatic	7.37582	37.9088
+370	kamw1239	Phoible	NA	Kamwe	Biu-Mandara	Afro-Asiatic	10.646	13.5136
+371	kang1288	Phoible	NA	Kanga	Kadugli	Kadugli	11.0174	29.3463
+372	kara1483	Phoible	NA	Karamojong	Nilotic	Nilotic	2.45157	34.2761
+373	kase1253	Phoible	NA	Kasem	Gur	Niger-Congo	11.0824	-1.39076
+374	katc1249	Phoible	NA	Katcha-Kadugli-Miri	Kadugli	Kadugli	10.8423	29.4914
+375	keig1242	Phoible	NA	Keiga	Kadugli	Kadugli	11.2064	29.3889
+376	kera1255	Phoible	NA	Kera	East Chadic	Afro-Asiatic	9.88165	15.1419
+377	kgal1244	Phoible	NA	Kgalagadi	Bantoid	Niger-Congo	-25.9208	22.7202
+378	kiku1240	Phoible	NA	Kikuyu	Bantoid	Niger-Congo	-0.29005	36.719
+379	kiny1244	Phoible	NA	Kinyarwanda	Bantoid	Niger-Congo	-1.56771	29.6441
+380	kips1239	Phoible	NA	Kipsigis	Nilotic	Nilotic	-0.35774	35.258532
+381	kisa1263	Phoible	NA	Kisa	Bantoid	Niger-Congo	0.15	34.57
+382	kist1241	Phoible	NA	Kistane	Semitic	Afro-Asiatic	8.33561	38.4763
+383	kitu1245	Phoible	NA	Kituba (Congo)	Creoles and Pidgins	other	-4.15654	14.5648
+384	kitu1246	Phoible	NA	Kituba (Democratic Republic of Congo)	Creoles and Pidgins	other	-2.29601	17.1548
+385	koal1240	Phoible	NA	Koalib	Heiban	Heiban	11.6965	30.4717
+386	kofy1242	Phoible	NA	Kofyar	West Chadic	Afro-Asiatic	8.79947	9.15279
+387	komo1258	Phoible	NA	Komo (Sudan)	Koman	Koman	8.94162	34.0939
+388	koor1239	Phoible	NA	Koorete	North Omotic	Afro-Asiatic	5.80545	37.8679
+389	koyr1240	Phoible	NA	Koyra Chiini Songhay	Songhay	Songhay	16.192	-3.73962
+390	koyr1242	Phoible	NA	Koyraboro Senni Songhai	Songhay	Songhay	16.9634	-0.55187
+391	kron1241	Phoible	NA	Krongo	Kadugli	Kadugli	10.514	30.003
+392	kuan1247	Phoible	NA	Kuanyama	Bantoid	Niger-Congo	-17.7176	16.58
+393	kuna1268	Phoible	NA	Kunama	Kunama	Kunama	14.5879	37.5292
+394	kuny1238	Phoible	NA	Kunyi	Bantoid	Niger-Congo	-3.69702	12.5197
+395	kups1238	Phoible	NA	Kupsabiny	Nilotic	Nilotic	1.33197	34.5991
+396	kute1248	Phoible	NA	Kutep	Platoid	Niger-Congo	7.07479	10.0916
+397	koma1249	Phoible	NA	Kwama	Koman	Koman	9.50836	34.2457
+398	kwam1251	Phoible	NA	Kwambi	Bantoid	Niger-Congo	-18.0339	15.7294
+399	kwam1250	Phoible	NA	Kwami	Bantoid	Niger-Congo	-1.53712	27.4633
+400	kwas1243	Phoible	NA	Kwasio	Bantoid	Niger-Congo	2.39354	10.0812
+401	kwes1244	Phoible	NA	Kwese	Bantoid	Niger-Congo	-5.60445	18.5759
+402	kxoe1243	Phoible	NA	Kxoe	Khoe-Kwadi	Khoe-Kwadi	-16.5905	22.5998
+403	lagw1237	Phoible	NA	Lagwan	Biu-Mandara	Afro-Asiatic	11.5592	14.9884
+404	lama1288	Phoible	NA	Lamang	Biu-Mandara	Afro-Asiatic	11.0243	13.7362
+405	lang1320	Phoible	NA	Langi	Bantoid	Niger-Congo	-4.71413	35.9517
+406	lang1322	Phoible	NA	Lango (Sudan)	Nilotic	Nilotic	4.04948	33.0412
+407	lang1324	Phoible	NA	Lango (Uganda)	Nilotic	Nilotic	2.13867	33.0553
+408	lega1249	Phoible	NA	Lega-Shabunda	Bantoid	Niger-Congo	-3.83196	27.1424
+409	liby1240	Phoible	NA	Libyan Arabic	Semitic	Afro-Asiatic	22.0032	15.0014
+410	ling1263	Phoible	NA	Lingala	Bantoid	Niger-Congo	1.40324	19.7829
+411	luch1239	Phoible	NA	Luchazi	Bantoid	Niger-Congo	-14.0648	22.2437
+412	lumu1239	Phoible	NA	Lumun	Talodi Proper	Talodi Proper	10.8308	30.253
+413	lund1266	Phoible	NA	Lunda	Bantoid	Niger-Congo	-11.1793	23.8662
+414	luva1239	Phoible	NA	Luvale	Bantoid	Niger-Congo	-13.5382	22.2924
+415	luwo1239	Phoible	NA	Luwo	Nilotic	Nilotic	7.35089	28.1378
+416	luya1241	Phoible	NA	Luyana	Bantoid	Niger-Congo	-15.2221	18.8037
+417	maay1238	Phoible	NA	Maay	Eastern Cushitic	Afro-Asiatic	3.22288	43.6182
+418	maba1277	Phoible	NA	Maba (Chad)	Maban	Maban	12.8915	20.8889
+419	maba1273	Phoible	NA	Mabaan	Nilotic	Nilotic	9.81455	33.5404
+420	mach1276	Phoible	NA	Machame	Bantoid	Niger-Congo	-3.29385	37.0703
+421	marg1265	Phoible	NA	Marghi Central	Biu-Mandara	Afro-Asiatic	10.8385	12.9952
+422	mark1255	Phoible	NA	Markweeta	Nilotic	Nilotic	1.15018	35.5866
+423	masa1300	Phoible	NA	Masai	Nilotic	Nilotic	-3.1419	36.4573
+424	matu1259	Phoible	NA	Matumbi	Bantoid	Niger-Congo	-8.53734	39.0409
+425	mawa1270	Phoible	NA	Mawa (Chad)	East Chadic	Afro-Asiatic	11.7461	18.2999
+426	mbal1255	Phoible	NA	Mbalanhu	Bantoid	Niger-Congo	-19.593	16.617
+427	mbay1241	Phoible	NA	Mbay	Bongo-Bagirmi	Central Sudanic	8.23066	15.7328
+428	mboc1235	Phoible	NA	Mbo (Cameroon)	Bantoid	Niger-Congo	5.13981	9.92766
+429	mbuk1240	Phoible	NA	Mbukushu	Bantoid	Niger-Congo	-17.6827	22.5026
+430	medu1238	Phoible	NA	Medumba	Bantoid	Niger-Congo	5.10901	10.6118
+431	meen1242	Phoible	NA	Me'en	Surmic	Surmic	6.63207	35.6255
+432	mere1246	Phoible	NA	Merey	Biu-Mandara	Afro-Asiatic	10.7458	14.09
+433	mesq1240	Phoible	NA	Mesqan	Semitic	Afro-Asiatic	8.10617	38.3386
+434	meta1238	Phoible	NA	Meta'	Bantoid	Niger-Congo	5.88942	9.87416
+435	mina1276	Phoible	NA	Mina (Cameroon)	Biu-Mandara	Afro-Asiatic	10.3805	13.8405
+436	mmaa1238	Phoible	NA	Mmaala	Bantoid	Niger-Congo	4.52188	11.0599
+437	mmen1238	Phoible	NA	Mmen	Bantoid	Niger-Congo	6.43213	10.2541
+438	molo1266	Phoible	NA	Moloko	Biu-Mandara	Afro-Asiatic	10.7933	14.2521
+439	mong1338	Phoible	NA	Mongo (Atlantic-Congo)	Bantoid	Niger-Congo	-1.54228	20.4259
+440	moro1285	Phoible	NA	Moro	Heiban	Heiban	10.9194	30.2138
+441	moro1292	Phoible	NA	Moroccan Arabic	Semitic	Afro-Asiatic	32.5	-7.5
+442	moss1236	Phoible	NA	Mossi	Gur	Niger-Congo	10.4524	-1.17278
+443	mpad1242	Phoible	NA	Mpade	Biu-Mandara	Afro-Asiatic	12.4609	14.5833
+444	mung1266	Phoible	NA	Mungaka	Bantoid	Niger-Congo	5.89752	10.0294
+445	murl1244	Phoible	NA	Murle	Surmic	Surmic	6.69756	33.988
+446	muya1243	Phoible	NA	Muyang	Biu-Mandara	Afro-Asiatic	10.8605	14.2125
+447	mwal1237	Phoible	NA	Mwali Comorian	Bantoid	Niger-Congo	-12.3164	43.741
+448	mwan1247	Phoible	NA	Mwani	Bantoid	Niger-Congo	-12.5821	40.4601
+449	nama1264	Phoible	NA	Nama (Namibia)	Khoe-Kwadi	Khoe-Kwadi	-25.0747	17.9767
+450	nand1266	Phoible	NA	Nandi	Nilotic	Nilotic	0.793737	35.408478
+451	nara1262	Phoible	NA	Nara	Nara	Nara	15.3251	37.499
+452	nari1240	Phoible	NA	Narim	Surmic	Surmic	4.80331	33.3312
+453	ndem1249	Phoible	NA	Ndemli	Bantoid	Niger-Congo	4.58061	10.2197
+454	ndon1254	Phoible	NA	Ndonga	Bantoid	Niger-Congo	-17.6417	19.1631
+455	ndzw1235	Phoible	NA	Ndzwani Comorian	Bantoid	Niger-Congo	-12.2123	44.3709
+456	ngam1268	Phoible	NA	Ngambay	Bongo-Bagirmi	Central Sudanic	8.57051	15.414
+457	ngan1300	Phoible	NA	Ngandyera	Bantoid	Niger-Congo	-16.6359	21.1928
+458	ngas1238	Phoible	NA	Ngasa	Nilotic	Nilotic	-2.97716	37.528
+459	ngaz1238	Phoible	NA	Ngazidja Comorian	Bantoid	Niger-Congo	-11.6129	43.36
+460	ngem1255	Phoible	NA	Ngemba	Bantoid	Niger-Congo	5.97864	10.1469
+461	ngie1241	Phoible	NA	Ngiemboon	Bantoid	Niger-Congo	5.56777	10.1266
+462	ngom1272	Phoible	NA	Ngomba	Bantoid	Niger-Congo	5.63067	10.237
+463	ngom1271	Phoible	NA	Ngombale	Bantoid	Niger-Congo	5.70306	10.1446
+464	ngos1238	Phoible	NA	Ngoshie	Bantoid	Niger-Congo	6.04616	9.83193
+465	nige1255	Phoible	NA	Nigeria Mambila	Bantoid	Niger-Congo	6.69736	11.3161
+466	nige1253	Phoible	NA	Nigerian Fulfulde	Northern Atlantic	Niger-Congo	10.9972	11.1188
+467	nobi1240	Phoible	NA	Nobiin	Nubian	Nubian	22.8142	31.8376
+468	noma1260	Phoible	NA	Nomaande	Bantoid	Niger-Congo	4.5893	10.9157
+469	noon1243	Phoible	NA	Noone	Bantoid	Niger-Congo	6.37256	10.5707
+470	nort3047	Phoible	NA	North Giziga	Biu-Mandara	Afro-Asiatic	10.6755	14.219
+471	nort2815	Phoible	NA	Northeastern Dinka	Nilotic	Nilotic	9.27995	31.8392
+472	nort2784	Phoible	NA	Northern Nuni	Gur	Niger-Congo	12.131	-2.98206
+473	ntom1248	Phoible	NA	Ntomba	Bantoid	Niger-Congo	-1.99062	18.265
+474	nubi1253	Phoible	NA	Nubi	Creoles and Pidgins	other	-0.183215	34.7552
+475	nucl1440	Phoible	NA	Nuclear Masalit	Maban	Maban	13.2733	22.1752
+476	nucl1339	Phoible	NA	Nuclear Temein	Temein	Temein	11.8275	29.3898
+477	nuer1246	Phoible	NA	Nuer	Nilotic	Nilotic	8.13911	32.3829
+478	nyan1313	Phoible	NA	Nyang'i	Kuliak	Kuliak	3.4997	33.7365
+479	nyol1238	Phoible	NA	Nyole	Bantoid	Niger-Congo	0.88072	33.9181
+480	opuu1239	Phoible	NA	Opuuo	Koman	Koman	8.47526	33.853
+481	otor1240	Phoible	NA	Otoro	Heiban	Heiban	11.1187	30.573
+482	otuh1238	Phoible	NA	Otuho	Nilotic	Nilotic	4.16379	32.6641
+483	pang1287	Phoible	NA	Pangwa	Bantoid	Niger-Congo	-9.96782	34.8039
+484	park1239	Phoible	NA	Parkwa	Biu-Mandara	Afro-Asiatic	11.0206	14.0964
+485	peve1243	Phoible	NA	Peve	Masa	Afro-Asiatic	9.16111	14.441
+486	piny1238	Phoible	NA	Pinyin	Bantoid	Niger-Congo	5.7991	10.0682
+487	poko1263	Phoible	NA	Pokoot	Nilotic	Nilotic	1.57023	35.2318
+488	pula1263	Phoible	NA	Pulaar	Northern Atlantic	Niger-Congo	13.8694	-13.4482
+489	qima1242	Phoible	NA	Qimant	Central Cushitic	Afro-Asiatic	12.8119	37.0542
+490	reel1238	Phoible	NA	Reel	Nilotic	Nilotic	6.32234	30.4945
+491	rend1243	Phoible	NA	Rendille	Eastern Cushitic	Afro-Asiatic	2.27065	37.3608
+492	rong1268	Phoible	NA	Ronga	Bantoid	Niger-Congo	-26.7329	32.6167
+493	saam1283	Phoible	NA	Saamia	Bantoid	Niger-Congo	34.03	0.37
+494	saba1262	Phoible	NA	Sabaot	Nilotic	Nilotic	1.01297	34.6664
+495	sand1273	Phoible	NA	Sandawe	Sandawe	Sandawe	-5.26918	35.4808
+496	saot1239	Phoible	NA	Saotomense	Creoles and Pidgins	other	0.28332	6.61935
+497	seba1251	Phoible	NA	Sebat Bet Gurage	Semitic	Afro-Asiatic	8.11879	37.9891
+498	shab1252	Phoible	NA	Shabo	Shabo	Shabo	7.64407	35.223
+499	shal1242	Phoible	NA	Shall-Zwall	Platoid	Niger-Congo	9.87556	9.64988
+500	shil1265	Phoible	NA	Shilluk	Nilotic	Nilotic	9.85472	31.7926
+501	shon1251	Phoible	NA	Shona	Bantoid	Niger-Congo	-17.2085	29.7572
+502	shwa1239	Phoible	NA	Shwai	Heiban	Heiban	11.2708	30.3533
+503	sida1246	Phoible	NA	Sidamo	Eastern Cushitic	Afro-Asiatic	6.74176	38.3729
+504	silt1240	Phoible	NA	Silt'e	Semitic	Afro-Asiatic	7.77004	38.1449
+505	siwi1239	Phoible	NA	Siwi	Berber	Afro-Asiatic	29.2023	25.5197
+506	soma1255	Phoible	NA	Somali	Eastern Cushitic	Afro-Asiatic	3.15088	40.4818
+507	soni1259	Phoible	NA	Soninke	Western Mande	Niger-Congo	13.1273	-11.7178
+508	sooo1256	Phoible	NA	Soo	Kuliak	Kuliak	2.58367	34.7595
+509	sout2833	Phoible	NA	South Central Dinka	Nilotic	Nilotic	6.7307	30.3021
+510	sout2795	Phoible	NA	Southern Nuni	Gur	Niger-Congo	11.5186	-2.14385
+511	sout2844	Phoible	NA	Southern Samo	Southeastern Mande	Niger-Congo	12.713	-2.9052
+512	subi1246	Phoible	NA	Subiya	Bantoid	Niger-Congo	-17.5696	24.8867
+513	suda1236	Phoible	NA	Sudanese Arabic	Semitic	Afro-Asiatic	17.8021	33.3179
+514	suri1267	Phoible	NA	Suri	Surmic	Surmic	6.03205	35.0823
+515	swah1253	Phoible	NA	Swahili	Bantoid	Niger-Congo	-8.25605	37.624
+516	tach1250	Phoible	NA	Tachelhit	Berber	Afro-Asiatic	29.7854	-7.77879
+517	tada1238	Phoible	NA	Tadaksahak	Songhay	Songhay	16.685	2.32653
+518	taha1241	Phoible	NA	Tahaggart Tamahaq	Berber	Afro-Asiatic	22.5908	8.73169
+519	talo1250	Phoible	NA	Talodi	Talodi Proper	Talodi Proper	10.6453	30.4815
+520	tama1331	Phoible	NA	Tama (Chad)	Taman	Taman	14.332	21.9951
+521	tama1365	Phoible	NA	Tamasheq	Berber	Afro-Asiatic	14.2038	-2.41269
+522	tari1263	Phoible	NA	Tarifit	Berber	Afro-Asiatic	35.3281	-1.87354
+523	tawa1286	Phoible	NA	Tawallammat Tamajaq	Berber	Afro-Asiatic	13.9878	4.47692
+524	teda1241	Phoible	NA	Tedaga	Western Saharan	Saharan	18.0426	14.7717
+525	teke1280	Phoible	NA	Teke-Kukuya	Bantoid	Niger-Congo	-2.27122	14.4407
+526	tera1251	Phoible	NA	Tera	Biu-Mandara	Afro-Asiatic	11.0376	11.8095
+527	tese1238	Phoible	NA	Tese	Temein	Temein	11.3885	29.5803
+528	tigr1270	Phoible	NA	Tigre	Semitic	Afro-Asiatic	17.3494	38.2233
+529	tigr1271	Phoible	NA	Tigrinya	Semitic	Afro-Asiatic	15.3359	38.9266
+530	tira1254	Phoible	NA	Tira	Heiban	Heiban	11.0963	30.8092
+531	tong1318	Phoible	NA	Tonga (Zambia)	Bantoid	Niger-Congo	-17.4223	27.1035
+532	topo1242	Phoible	NA	Toposa	Nilotic	Nilotic	5.15904	34.2159
+533	tote1238	Phoible	NA	Totela	Bantoid	Niger-Congo	-16.9575	24.3751
+534	tsot1241	Phoible	NA	Tsotso	Bantoid	Niger-Congo	0.30	34.70
+535	tsuv1239	Phoible	NA	Tsuvadi	Kainji	Niger-Congo	10.8421	5.22095
+536	tuli1249	Phoible	NA	Tulishi	Kadugli	Kadugli	11.4507	29.108
+537	tumt1243	Phoible	NA	Tumtum	Kadugli	Kadugli	10.6378	30.4128
+538	tune1241	Phoible	NA	Tunen	Bantoid	Niger-Congo	4.67724	10.5456
+539	tuni1251	Phoible	NA	Tunia	Adamawa	Niger-Congo	9.42506	18.2059
+540	uduk1239	Phoible	NA	Uduk	Koman	Koman	9.16012	34.2293
+541	umbu1257	Phoible	NA	Umbundu	Bantoid	Niger-Congo	-12.4763	14.4148
+542	uppe1455	Phoible	NA	Upper Guinea Crioulo	Creoles and Pidgins	other	13.2335	-15.3325
+543	vame1236	Phoible	NA	Vame	Biu-Mandara	Afro-Asiatic	10.9481	14.2131
+544	wand1278	Phoible	NA	Wandala	Biu-Mandara	Afro-Asiatic	11.3169	13.8996
+545	west2500	Phoible	NA	Western Maninkakan	Western Mande	Niger-Congo	13.5677	-12.8009
+546	west2454	Phoible	NA	Western Niger Fulfulde	Northern Atlantic	Niger-Congo	14.2471	-0.52004
+547	wola1242	Phoible	NA	Wolaytta	North Omotic	Afro-Asiatic	6.32668	37.7537
+548	wong1247	Phoible	NA	Wongo	Bantoid	Niger-Congo	-5.73837	20.5054
+549	wuzl1236	Phoible	NA	Wuzlam	Biu-Mandara	Afro-Asiatic	10.955	14.1378
+550	xamt1239	Phoible	NA	Xamtanga	Central Cushitic	Afro-Asiatic	12.4479	38.8352
+551	xhos1239	Phoible	NA	Xhosa	Bantoid	Niger-Congo	-31.0389	28.0769
+552	yalu1240	Phoible	NA	Yalunka	Western Mande	Niger-Congo	9.97186	-11.2836
+553	yamb1252	Phoible	NA	Yambeta	Bantoid	Niger-Congo	4.83615	10.9369
+554	yans1239	Phoible	NA	Yansi	Bantoid	Niger-Congo	-3.8231	18.2341
+555	yaoo1241	Phoible	NA	Yao	Bantoid	Niger-Congo	-13.6119	35.2387
+556	yemb1246	Phoible	NA	Yemba	Bantoid	Niger-Congo	5.47421	10.0214
+557	yems1235	Phoible	NA	Yemsa	North Omotic	Afro-Asiatic	7.79821	37.4412
+558	yeyi1239	Phoible	NA	Yeyi	Bantoid	Niger-Congo	-18.9178	23.6088
+559	zagh1240	Phoible	NA	Zaghawa	Eastern Saharan	Saharan	17.4842	23.4626
+560	zayy1238	Phoible	NA	Zay	Semitic	Afro-Asiatic	8.01148	38.8258
+561	zays1235	Phoible	NA	Zayse-Zergulla	North Omotic	Afro-Asiatic	5.83747	37.3409
+562	zulg1242	Phoible	NA	Zulgo-Gemzek	Biu-Mandara	Afro-Asiatic	10.827	14.0578
+563	zulu1248	Phoible	NA	Zulu	Bantoid	Niger-Congo	-25.3305	31.3512
+564	sout2834	Phoible	NA	Southwestern Dinka	Nilotic	Nilotic	8.81	28.06
+565	nort2815	Phoible	NA	Northeastern Dinka	Nilotic	Nilotic	9.28	31.84
